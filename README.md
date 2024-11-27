@@ -20,19 +20,19 @@ Mengajak pengunjung untuk memahami proses budidaya ikan nila air tawar melalui t
 5.	Penelitian dan Pengembangan (R&D)
 Fokus pada penelitian tentang inovasi dalam metode budidaya ikan nila air tawar, termasuk teknologi pengolahan limbah dan penggunaan energi terbarukan untuk operasional tambak. Kolaborasi dengan akademisi dan peneliti bertujuan untuk meningkatkan produktivitas sekaligus menjaga kelestarian lingkungan.
 
-Fitur Utama
+#Fitur Utama
 •	Navigasi yang Mudah: Pengunjung dapat menavigasi konten dengan mudah melalui menu utama dan submenu "Layanan Kami".
 •	Desain Responsif: Desain web yang optimal untuk berbagai perangkat, memastikan pengalaman pengguna yang nyaman.
 •	Konten Interaktif: Menyediakan infografis, video, dan galeri foto untuk memperkaya pemahaman pengunjung tentang budidaya ikan nila air tawar.
 
-Teknologi yang Digunakan
+#Teknologi yang Digunakan
 •	HTML5
 •	CSS3
 •	JavaScript untuk animasi interaktif
 •	Media visual untuk mendukung tampilan yang menarik
 
-Tujuan Proyek
-Proyek ini bertujuan untuk:
+#Tujuan Proyek
+#Proyek ini bertujuan untuk:
 •	Mengedukasi masyarakat tentang potensi dan manfaat budidaya ikan nila air tawar.
 •	Menginspirasi komunitas lokal untuk menerapkan praktik budidaya yang ramah lingkungan.
 •	Mendorong inovasi dalam teknologi budidaya guna meningkatkan produktivitas dan efisiensi.
