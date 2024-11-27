@@ -1,7 +1,9 @@
 # PROJECT-UTS
+# UTS PEMOGRAMAN WEB 1
 Budidaya Ikan Nila Air Tawar: Keberlanjutan dan Potensi Ekonomi
 
 Deskripsi Proyek
+
 Proyek ini bertujuan untuk memperkenalkan praktik budidaya ikan nila air tawar sebagai salah satu solusi keberlanjutan di sektor perikanan. Ikan nila, yang dikenal luas sebagai komoditas unggulan dalam industri perikanan air tawar, memiliki nilai ekonomi yang tinggi serta potensi besar dalam meningkatkan kesejahteraan masyarakat lokal. Dalam menghadapi tantangan keberlanjutan dan peningkatan produktivitas, proyek ini fokus pada penerapan metode budidaya yang ramah lingkungan dan efisien.
 Proyek ini mencakup tiga aspek utama yang dapat diakses oleh pengunjung:
 1.	Pelatihan Budidaya Ikan Nila Air Tawar
