@@ -6,6 +6,7 @@ Deskripsi Proyek
 
 Proyek ini bertujuan untuk memperkenalkan praktik budidaya ikan nila air tawar sebagai salah satu solusi keberlanjutan di sektor perikanan. Ikan nila, yang dikenal luas sebagai komoditas unggulan dalam industri perikanan air tawar, memiliki nilai ekonomi yang tinggi serta potensi besar dalam meningkatkan kesejahteraan masyarakat lokal. Dalam menghadapi tantangan keberlanjutan dan peningkatan produktivitas, proyek ini fokus pada penerapan metode budidaya yang ramah lingkungan dan efisien.
 Proyek ini mencakup tiga aspek utama yang dapat diakses oleh pengunjung:
+
 1.	Pelatihan Budidaya Ikan Nila Air Tawar
 Memberikan pelatihan kepada petani ikan dan masyarakat umum mengenai teknik budidaya ikan nila air tawar yang efektif dan berkelanjutan. Pelatihan meliputi:
 o	Pembuatan kolam yang efisien.
@@ -18,6 +19,7 @@ Mengajak pengunjung untuk memahami proses budidaya ikan nila air tawar melalui t
 
 5.	Penelitian dan Pengembangan (R&D)
 Fokus pada penelitian tentang inovasi dalam metode budidaya ikan nila air tawar, termasuk teknologi pengolahan limbah dan penggunaan energi terbarukan untuk operasional tambak. Kolaborasi dengan akademisi dan peneliti bertujuan untuk meningkatkan produktivitas sekaligus menjaga kelestarian lingkungan.
+
 Fitur Utama
 •	Navigasi yang Mudah: Pengunjung dapat menavigasi konten dengan mudah melalui menu utama dan submenu "Layanan Kami".
 •	Desain Responsif: Desain web yang optimal untuk berbagai perangkat, memastikan pengalaman pengguna yang nyaman.
